@@ -1,4 +1,4 @@
-# Copyright (c) 2025 s0l_godzz and edn-crypto
+# Copyright (c) 2025 s0l-godzz and edn-crypto
 #
 # MIT License
 #
@@ -968,3 +968,4 @@ if __name__ == "__main__":
 # --- IGNORE ---
 
     
+
