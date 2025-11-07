@@ -38,10 +38,11 @@ This repo is meant for **personal learning and experimentation** — contributio
 
 ## License & attribution
 This project is released under the **MIT License** (see `LICENSE`).  
-**Original authors:** `mainly s0l_godzz`, `edn-crypto` — keep this attribution in any copy or fork.
+**Original authors:** `mainly s0l-godzz`, `edn-crypto` — keep this attribution in any copy or fork.
 
 ---
 
 ## Contact / maintainers
 If you want to collaborate, open an issue or send a PR. If you want to be added as a co-maintainer, we can discuss via GitHub issues (owner will add as collaborator or move the repo to an organization).
+
 
